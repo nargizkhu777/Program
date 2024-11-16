@@ -1,5 +1,5 @@
 #Задание 1
-word = 'complement \n'
+word = 'testing \n'
 if len(word) % 2 == 1:
 print (word[len(word) // 2]
 else:
